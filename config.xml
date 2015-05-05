@@ -33,6 +33,7 @@
       <properties class="hudson.model.View$PropertyList"/>
       <jobNames>
         <comparator class="hudson.util.CaseInsensitiveComparator"/>
+        <string>FlashCards_App</string>
       </jobNames>
       <jobFilters/>
       <columns>
