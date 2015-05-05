@@ -21,8 +21,7 @@
     <configVersion>2</configVersion>
     <userRemoteConfigs>
       <hudson.plugins.git.UserRemoteConfig>
-        <url>https://github.com/justinhrobbins/raspberry-pi-api.git</url>
-        <credentialsId>dfdc6d44-d5b8-4e26-b92c-5e0d57c2bb2b</credentialsId>
+        <url>git@github.com:justinhrobbins/jenkins-notification-datahub.git</url>
       </hudson.plugins.git.UserRemoteConfig>
     </userRemoteConfigs>
     <branches>
