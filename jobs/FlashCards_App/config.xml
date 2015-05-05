@@ -48,7 +48,7 @@
     <groupId>org.robbins.flashcards</groupId>
     <artifactId>FlashCards_App</artifactId>
   </rootModule>
-  <goals>clean package</goals>
+  <goals>clean package -Pskip-tests</goals>
   <aggregatorStyleBuild>true</aggregatorStyleBuild>
   <incrementalBuild>false</incrementalBuild>
   <ignoreUpstremChanges>false</ignoreUpstremChanges>
