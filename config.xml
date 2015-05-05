@@ -55,6 +55,7 @@
       <properties class="hudson.model.View$PropertyList"/>
       <jobNames>
         <comparator class="hudson.util.CaseInsensitiveComparator" reference="../../../listView/jobNames/comparator"/>
+        <string>env-variable-service</string>
       </jobNames>
       <jobFilters/>
       <columns>
