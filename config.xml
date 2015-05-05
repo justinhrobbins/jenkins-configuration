@@ -77,6 +77,7 @@
       <properties class="hudson.model.View$PropertyList"/>
       <jobNames>
         <comparator class="hudson.util.CaseInsensitiveComparator" reference="../../../listView/jobNames/comparator"/>
+        <string>raspberry-pi-api</string>
       </jobNames>
       <jobFilters/>
       <columns>
