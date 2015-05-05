@@ -46,7 +46,7 @@
   <concurrentBuild>false</concurrentBuild>
   <rootModule>
     <groupId>org.robbins</groupId>
-    <artifactId>raspberry-pi-api</artifactId>
+    <artifactId>raspberry-pi-datahub</artifactId>
   </rootModule>
   <goals>clean package</goals>
   <aggregatorStyleBuild>true</aggregatorStyleBuild>
