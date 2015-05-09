@@ -48,7 +48,7 @@
     <groupId>org.robbins</groupId>
     <artifactId>raspberry-pi-api</artifactId>
   </rootModule>
-  <goals>clean package</goals>
+  <goals>clean install</goals>
   <aggregatorStyleBuild>true</aggregatorStyleBuild>
   <incrementalBuild>false</incrementalBuild>
   <ignoreUpstremChanges>false</ignoreUpstremChanges>
